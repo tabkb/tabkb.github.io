@@ -12,6 +12,7 @@
   "actuation": true,
   "screen": {
     "menus": ["video", "image", "slider"],
+    "swapBit": true,
     "fileTypes": [
       {
         "tips": "屏幕动画 Area1",

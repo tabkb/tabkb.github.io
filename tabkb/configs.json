@@ -94,6 +94,7 @@
         "image",
         "slider"
       ],
+      "swapBit": true,
       "fileTypes": [
         {
           "tips": "屏幕动画 Area1",
@@ -162,7 +163,7 @@
           "format": "ABKG",
           "oextension": "bkg",
           "orientations": 90,
-          "owidth": 160,
+          "owidth": 112,
           "oheight": 80
         }
       ]
