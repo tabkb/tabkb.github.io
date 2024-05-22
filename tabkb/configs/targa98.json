@@ -5,6 +5,7 @@
   "screen": {
     "menus": ["video", "image", "slider"],
     "swapBit": true,
+    "animFramesLimit": 512,
     "fileTypes": [
       {
         "tips": "",

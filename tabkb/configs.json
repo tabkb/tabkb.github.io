@@ -90,6 +90,7 @@
         "slider"
       ],
       "swapBit": true,
+      "animFramesLimit": -1,
       "fileTypes": [
         {
           "tips": "屏幕动画 Area1",
@@ -137,6 +138,7 @@
         "slider"
       ],
       "swapBit": true,
+      "animFramesLimit": 512,
       "fileTypes": [
         {
           "tips": "",

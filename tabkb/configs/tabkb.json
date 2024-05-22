@@ -13,6 +13,7 @@
   "screen": {
     "menus": ["video", "image", "slider"],
     "swapBit": true,
+    "animFramesLimit": -1,
     "fileTypes": [
       {
         "tips": "屏幕动画 Area1",
