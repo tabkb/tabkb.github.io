@@ -2,7 +2,6 @@
   "name": "Targa 98",
   "vendorId": "0x5546",
   "productId": "0x5462",
-  "firmware": "0.0.0",
   "screen": {
     "menus": ["video", "image", "slider"],
     "swapBit": true,
@@ -11,7 +10,6 @@
         "tips": "",
         "type": "video",
         "format": "ANIM",
-        "oextension": "ani",
         "orientations": 90,
         "owidth": 112,
         "oheight": 80
@@ -20,7 +18,6 @@
         "tips": "屏幕背景",
         "type": "image",
         "format": "ABKG",
-        "oextension": "bkg",
         "orientations": 90,
         "owidth": 112,
         "oheight": 80
