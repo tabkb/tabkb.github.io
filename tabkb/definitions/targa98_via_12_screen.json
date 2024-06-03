@@ -36,6 +36,27 @@
                         }
                     ]
                 },
+				{
+                    "label": "Screen",
+                    "content": [
+                        {
+                            "label": "Display Toggle / \u5f00\u5173\u5c4f\u5e55",
+                            "type": "toggle",
+                            "content": ["id_cp_kbd_screen_toggle", 24, 1]
+                        },
+                        {
+                            "label": "Display Style / \u5c4f\u5e55\u663e\u793a\u6837\u5f0f",
+                            "type": "dropdown",
+                            "showIf": "{id_cp_kbd_screen_toggle} == 1",
+                            "options": [
+                                ["LOGO", 0],
+                                ["\u56fe\u7247", 1],
+                                ["\u52a8\u753b", 2]
+                              ],
+                            "content": ["id_cp_kbd_screen_style", 24, 4]
+                        }
+                    ]
+                },
                 {
                     "label": "Fireware",
                     "content": [

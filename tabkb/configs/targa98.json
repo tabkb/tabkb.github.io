@@ -5,22 +5,22 @@
   "screen": {
     "menus": ["video", "image", "slider"],
     "swapBit": true,
-    "animFramesLimit": 512,
     "fileTypes": [
       {
         "tips": "",
         "type": "video",
         "format": "ANIM",
         "orientations": 90,
-        "owidth": 112,
-        "oheight": 80
+        "owidth": 160,
+        "oheight": 80,
+        "animFramesLimit": 512
       },
       {
         "tips": "屏幕背景",
         "type": "image",
         "format": "ABKG",
         "orientations": 90,
-        "owidth": 112,
+        "owidth": 160,
         "oheight": 80
       }
     ]
