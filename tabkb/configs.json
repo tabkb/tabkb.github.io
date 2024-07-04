@@ -46,6 +46,12 @@
     ]
   },
   {
+    "name": "OW suit hal",
+    "vendorId": "0x4F57",
+    "productId": "0x5380",
+    "actuation": true
+  },
+  {
     "name": "qk80v2",
     "vendorId": "0x4F57",
     "productId": "0x5002",
