@@ -620,49 +620,41 @@
          "title": "[INF_OUT] Print the current KBD information / \u8f93\u51fa\u5f53\u524d\u952e\u76d8\u4fe1\u606f",
          "shortName": "Info"
         },
-        {"name": "Screen toggle",
-         "title": "[LCD_TOG] Screen toggle / \u5c4f\u5e55\u5f00\u5173",
-         "shortName": "ScrTog"
-        },
-        {"name": "Screen input",
-         "title": "[LCD_FIL] Screen content input / \u5c4f\u5e55\u5185\u5bb9\u8bbe\u7f6e",
-         "shortName": "ScrIn"
-        },
-        {"name": "Screen mode",
-         "title": "[LCD_MOD] Screen mode setting / \u5c4f\u5e55\u6a21\u5f0f\u8bbe\u7f6e",
-         "shortName": "ScrMod"
-        },
-        {"name": "Screen style",
-         "title": "[LCD_STY] Screen style color setting / \u5c4f\u5e55\u989c\u8272\u6837\u5f0f\u8bbe\u7f6e",
-         "shortName": "ScrSty"
-        },
-        {"name": "Screen erase",
-         "title": "[LCD_ERS] Screen content erase / \u5c4f\u5e55\u5185\u5bb9\u6e05\u7a7a",
-         "shortName": "ScrErs"
-        },
         {"name": "GUI enter",
          "title": "[GUK_ENT] GUI key enter / \u5c4f\u5e55\u63a7\u5236\u786e\u5b9a",
-         "shortName": "ScrErs"
+         "shortName": "ScEnt"
         },
         {"name": "GUI exit",
          "title": "[GUK_EXT] GUI key exit / \u5c4f\u5e55\u63a7\u5236\u53d6\u6d88",
-         "shortName": "ScrErs"
+         "shortName": "ScExt"
         },
         {"name": "GUI up",
          "title": "[GUK_UP] GUI key up / \u5c4f\u5e55\u63a7\u5236\u5411\u4e0a",
-         "shortName": "ScrErs"
+         "shortName": "ScUp"
         },
         {"name": "GUI down",
          "title": "[GUK_DN] GUI key down / \u5c4f\u5e55\u63a7\u5236\u5411\u4e0b",
-         "shortName": "ScrErs"
+         "shortName": "ScDn"
         },
         {"name": "GUI left",
          "title": "[GUK_LET] GUI key left / \u5c4f\u5e55\u63a7\u5236\u5411\u5de6",
-         "shortName": "ScrErs"
+         "shortName": "ScLet"
         },
         {"name": "GUI right",
          "title": "[GUK_RIT] GUI key right / \u5c4f\u5e55\u63a7\u5236\u5411\u53f3",
-         "shortName": "ScrErs"
+         "shortName": "ScRit"
+        },
+        {"name": "GUI ctog",
+         "title": "[GUK_CTOG] GUI Toggle / \u5c4f\u5e55\u5f00\u5173",
+         "shortName": "ScTog"
+        },
+        {"name": "GUI cmode",
+         "title": "[GUK_CMODE] GUI Mode / \u5c4f\u5e55\u4e3b\u9898\u5207\u6362",
+         "shortName": "ScMd"
+        },
+        {"name": "GUI emode",
+         "title": "[GUK_EMODE] LED Mode / \u70b9\u9635\u5c4f\u4e3b\u9898\u5207\u6362",
+         "shortName": "ScLmd"
         }
     ],
 	"layouts": {
