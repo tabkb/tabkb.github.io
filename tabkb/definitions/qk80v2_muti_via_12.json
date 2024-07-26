@@ -369,9 +369,9 @@
     ],
 
     "customKeycodes": [
-        {"name": "Light mode",
-         "title": "[LNT_MOD] Toggle RGB Matrix or Light mode control / \u5207\u6362\u8f74\u706f\u4e0e\u6c1b\u56f4\u706f\u914d\u7f6e\u6a21\u5f0f",
-         "shortName": "LgtMod"
+        {"name": "Light Control Switch",
+         "title": "[LNT_MOD] Switch the control of Per-key RGB and RGB Matrix Screen / \u5207\u6362\u8f74\u706f\u548c\u70b9\u9635\u5c4f\u7684\u63a7\u5236",
+         "shortName": "LgtCrtlSW"
         },
         {"name": "Light Power on",
          "title": "[LNT_ON] Turn on all LED power / \u7269\u7406\u5f00\u542f\u706f\u4f9b\u7535",
