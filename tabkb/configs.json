@@ -129,7 +129,8 @@
     "matrixLighting": {
       "rows": 7,
       "cols": 7,
-      "cdc": true
+      "cdc": true,
+      "importEnable": true
     },
     "screen": {
       "menus": [
