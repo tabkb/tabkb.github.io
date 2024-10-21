@@ -11,7 +11,7 @@
     "importEnable": true
   },
   "screen": {
-    "menus": ["video"],
+    "menus": ["video", "image", "slider"],
     "fileTypes": [
       {
         "label": "动画",
@@ -30,6 +30,14 @@
         "owidth": 320,
         "oheight": 172,
         "animFramesLimit": 200
+      },
+      {
+        "label": "屏幕背景",
+        "type": "image",
+        "format": "ABKG",
+        "orientations": 0,
+        "owidth": 320,
+        "oheight": 172
       }
     ]
   }

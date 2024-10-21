@@ -134,7 +134,9 @@
     },
     "screen": {
       "menus": [
-        "video"
+        "video",
+        "image",
+        "slider"
       ],
       "fileTypes": [
         {
@@ -154,6 +156,14 @@
           "owidth": 320,
           "oheight": 172,
           "animFramesLimit": 200
+        },
+        {
+          "label": "屏幕背景",
+          "type": "image",
+          "format": "ABKG",
+          "orientations": 0,
+          "owidth": 320,
+          "oheight": 172
         }
       ]
     }
