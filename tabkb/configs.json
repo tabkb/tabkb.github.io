@@ -129,18 +129,16 @@
     "matrixLighting": {
       "rows": 7,
       "cols": 7,
-      "cdc": true,
-      "importEnable": true
+      "cdc": true
     },
     "screen": {
       "menus": [
         "video",
-        "image",
-        "slider"
+        "image"
       ],
       "fileTypes": [
         {
-          "label": "动画",
+          "label": "Custom Animation",
           "type": "video",
           "format": "ANIM",
           "orientations": 0,
@@ -149,7 +147,7 @@
           "animFramesLimit": 600
         },
         {
-          "label": "主题",
+          "label": "Theme",
           "type": "video",
           "format": "ANIT",
           "orientations": 0,
@@ -158,9 +156,17 @@
           "animFramesLimit": 200
         },
         {
-          "label": "屏幕背景",
+          "label": "Custom Image",
           "type": "image",
           "format": "ABKG",
+          "orientations": 0,
+          "owidth": 320,
+          "oheight": 172
+        },
+        {
+          "label": "Theme",
+          "type": "image",
+          "format": "ABKT",
           "orientations": 0,
           "owidth": 320,
           "oheight": 172

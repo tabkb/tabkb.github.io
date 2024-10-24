@@ -162,7 +162,7 @@
                     ]
                 },
                 {
-                    "label": "LED / \u70b9\u9635\u5c4f",
+                    "label": "MATRIX LED / \u70b9\u9635\u5c4f",
                     "content": [
                         {
                         "label": "Brightness / \u4eae\u5ea6",
@@ -408,7 +408,7 @@
          "shortName": "ScnRt"
         },
         {"name": "Led Mode",
-         "title": "[TJM_MOD] LED Mode / \u70b9\u9635\u5c4f\u4e3b\u9898\u5207\u6362",
+         "title": "[TJM_MOD] MATRIX LED Mode / \u70b9\u9635\u5c4f\u4e3b\u9898\u5207\u6362",
          "shortName": "LedMd"
         }
     ],
