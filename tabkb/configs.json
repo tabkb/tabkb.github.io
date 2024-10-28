@@ -7,7 +7,9 @@
     "cdc": true,
     "screen": {
       "menus": [
-        "video"
+        "video",
+        "image",
+        "slider"
       ],
       "fileTypes": [
         {
@@ -18,6 +20,14 @@
           "owidth": 172,
           "oheight": 320,
           "animFramesLimit": 400
+        },
+        {
+          "label": "屏幕背景",
+          "type": "image",
+          "format": "ABKG",
+          "orientations": 0,
+          "owidth": 172,
+          "oheight": 320
         }
       ]
     }
