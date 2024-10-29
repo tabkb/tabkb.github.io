@@ -28,6 +28,15 @@
           "orientations": 0,
           "owidth": 172,
           "oheight": 320
+        },
+        {
+          "label": "动画",
+          "type": "slider",
+          "format": "ANPS",
+          "orientations": 0,
+          "owidth": 172,
+          "oheight": 320,
+          "animFramesLimit": 400
         }
       ]
     }
@@ -294,6 +303,24 @@
           "orientations": 0,
           "owidth": 96,
           "oheight": 88
+        },
+        {
+          "label": "Custom Slider",
+          "type": "slider",
+          "format": "ANPS",
+          "orientations": 0,
+          "owidth": 80,
+          "oheight": 30,
+          "animFramesLimit": -1
+        },
+        {
+          "label": "Theme",
+          "type": "slider",
+          "format": "ANPT",
+          "orientations": 0,
+          "owidth": 80,
+          "oheight": 112,
+          "animFramesLimit": -1
         }
       ]
     }
@@ -327,6 +354,15 @@
           "orientations": 0,
           "owidth": 160,
           "oheight": 80
+        },
+        {
+          "label": "",
+          "type": "slider",
+          "format": "ANPS",
+          "orientations": 0,
+          "owidth": 160,
+          "oheight": 80,
+          "animFramesLimit": 512
         }
       ]
     }
@@ -360,6 +396,15 @@
           "orientations": 0,
           "owidth": 160,
           "oheight": 80
+        },
+        {
+          "label": "",
+          "type": "slider",
+          "format": "ANPS",
+          "orientations": 0,
+          "owidth": 160,
+          "oheight": 80,
+          "animFramesLimit": 512
         }
       ]
     }

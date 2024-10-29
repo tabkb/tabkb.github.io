@@ -23,6 +23,15 @@
         "orientations": 0,
         "owidth": 160,
         "oheight": 80
+      },
+      {
+        "label": "",
+        "type": "slider",
+        "format": "ANPS",
+        "orientations": 0,
+        "owidth": 160,
+        "oheight": 80,
+        "animFramesLimit": 512
       }
     ]
   }
