@@ -181,6 +181,24 @@
           "orientations": 0,
           "owidth": 320,
           "oheight": 172
+        },
+        {
+          "label": "Custom Slider",
+          "type": "slider",
+          "format": "ANPS",
+          "orientations": 0,
+          "owidth": 320,
+          "oheight": 172,
+          "animFramesLimit": 600
+        },
+        {
+          "label": "Theme",
+          "type": "slider",
+          "format": "ANPT",
+          "orientations": 0,
+          "owidth": 320,
+          "oheight": 172,
+          "animFramesLimit": 200
         }
       ]
     }
