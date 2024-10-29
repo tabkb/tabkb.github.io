@@ -10,7 +10,7 @@
     "cdc": true
   },
   "screen": {
-    "menus": ["video", "image"],
+    "menus": ["video", "image", "slider"],
     "fileTypes": [
       {
         "label": "Custom Animation",

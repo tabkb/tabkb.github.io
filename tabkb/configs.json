@@ -144,7 +144,8 @@
     "screen": {
       "menus": [
         "video",
-        "image"
+        "image",
+        "slider"
       ],
       "fileTypes": [
         {
