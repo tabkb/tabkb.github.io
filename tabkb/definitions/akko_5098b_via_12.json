@@ -180,11 +180,6 @@
                             "content": ["id_cp_magic_gui", 19, 2]
                         },
                         {
-                            "label": "Toggle Alt and GUI swap on both sides / \u3010Alt/Cmd\u3011\u4e92\u6362\u3010Win/Opt\u3011",
-                            "type": "toggle",
-                            "content": ["id_cp_magic_alt_gui", 19, 3]
-                        },
-                        {
                             "label": "Treat Caps Lock as Control / \u5c06\u3010Caps\u3011\u53d8\u4e3a\u3010Ctrl\u3011",
                             "type": "toggle",
                             "content": ["id_cp_magic_caps_ctrl", 19, 4]
@@ -219,6 +214,10 @@
                             "content": ["id_cp_info_led", 17, 4]
                         }
                     ]
+                },
+                {
+                    "label": "Date Time",
+                    "content": []
                 },
                 {
                     "label": "Connect",
@@ -372,24 +371,24 @@
 		"keymap": [
 			[
                 "0,0",
-                {"x":0.25},
+                {"x":1},
                 "0,1",
                 "0,2",
                 "0,3",
                 "0,4",
-                {"x":0.25},
+                {"x":0.5},
                 "0,5",
                 "0,6",
                 "0,7",
                 "0,8",
-                {"x":0.25},
+                {"x":0.5},
                 "0,9",
                 "0,10",
                 "0,11",
                 "0,12",
                 {"x":0.25},
                 "0,13",
-                {"x":1.5},
+                {"x":0.25},
                 "1,15",
                 "2,15",
                 {"x":1},
