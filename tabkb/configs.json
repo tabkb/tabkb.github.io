@@ -217,7 +217,39 @@
           "animFramesLimit": 200
         }
       ]
-    }
+    },
+    "tapDance": [
+      {
+        "name": "G24",
+        "title": "短按配对连接，长按删除配对信息",
+        "shortName": "TD(G24)"
+      },
+      {
+        "name": "BLE1",
+        "title": "短按配对连接，长按删除配对信息",
+        "shortName": "TD(BLE1)"
+      },
+      {
+        "name": "BLE2",
+        "title": "短按配对连接，长按删除配对信息",
+        "shortName": "TD(BLE2)"
+      },
+      {
+        "name": "BLE3",
+        "title": "短按配对连接，长按删除配对信息",
+        "shortName": "TD(BLE3)"
+      },
+      {
+        "name": "REST",
+        "title": "长按3秒删除键盘所有配置",
+        "shortName": "TD(REST)"
+      },
+      {
+        "name": "WIN",
+        "title": "",
+        "shortName": "TD(WIN)"
+      }
+    ]
   },
   {
     "name": "qk80v2",
