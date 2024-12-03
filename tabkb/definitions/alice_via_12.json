@@ -111,7 +111,7 @@
                     "label": "Features",
                     "content": [
                         {
-                            "label": "Debounce mode",
+                            "label": "Debounce Mode",
                             "type": "dropdown",
                             "options": [
                                 ["Default", 0],
@@ -212,7 +212,7 @@
                     ]
                 },
                 {
-                    "label": "Fireware",
+                    "label": "Firmware",
                     "content": [
                         {
                             "label": "Clear Settings",

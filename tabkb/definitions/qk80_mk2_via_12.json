@@ -242,7 +242,7 @@
                             "content": ["id_cp_sleep_mode", 17, 2]
                         },
                         {
-                            "label": "Debounce mode / \u6309\u952e\u53bb\u6296\u6a21\u5f0f",
+                            "label": "Debounce Mode / \u6309\u952e\u53bb\u6296\u6a21\u5f0f",
                             "type": "dropdown",
                             "options": [
                                 ["Default / \u9ed8\u8ba4", 0],
@@ -251,7 +251,7 @@
                             "content": ["id_cp_debounce_mode", 17, 6]
                         },
                         {
-                            "label": "Debounce delay ms / \u6309\u952e\u53bb\u6296\u65f6\u95f4\u6beb\u79d2",
+                            "label": "Debounce Delay (ms) / \u6309\u952e\u53bb\u6296\u65f6\u95f4\u6beb\u79d2",
                             "type": "dropdown",
                             "options": [
                                 ["1 ms", 1],
@@ -306,7 +306,7 @@
                     ]
                 },
                 {
-                    "label": "Fireware",
+                    "label": "Firmware",
                     "content": [
                         {
                             "label": "Clear Settings / \u5220\u9664\u952e\u76d8\u6240\u6709\u914d\u7f6e\uff08\u4f7f\u7528\u540e\u9700\u8981\u91cd\u542f\u952e\u76d8\uff09",
