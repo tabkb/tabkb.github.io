@@ -84,7 +84,7 @@
           "orientations": 0,
           "owidth": 160,
           "oheight": 80,
-          "animFramesLimit": 512
+          "animFramesLimit": 480
         },
         {
           "label": "屏幕背景",
@@ -101,7 +101,7 @@
           "orientations": 0,
           "owidth": 160,
           "oheight": 80,
-          "animFramesLimit": 512
+          "animFramesLimit": 480
         }
       ]
     }
@@ -533,7 +533,7 @@
           "orientations": 0,
           "owidth": 160,
           "oheight": 80,
-          "animFramesLimit": 512
+          "animFramesLimit": 480
         },
         {
           "label": "屏幕背景",
@@ -550,7 +550,7 @@
           "orientations": 0,
           "owidth": 160,
           "oheight": 80,
-          "animFramesLimit": 512
+          "animFramesLimit": 480
         }
       ]
     }
@@ -575,7 +575,7 @@
           "orientations": 0,
           "owidth": 160,
           "oheight": 80,
-          "animFramesLimit": 512
+          "animFramesLimit": 480
         },
         {
           "label": "屏幕背景",
@@ -592,7 +592,7 @@
           "orientations": 0,
           "owidth": 160,
           "oheight": 80,
-          "animFramesLimit": 512
+          "animFramesLimit": 480
         }
       ]
     }
