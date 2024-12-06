@@ -348,7 +348,7 @@
         "shortName": "ScEnt"
        },
        {"name": "Screen exit key",
-        "title": "[TGI_EXT] en exit key",
+        "title": "[TGI_EXT] Screen exit key",
         "shortName": "ScExt"
        },
        {"name": "Screen up key",
