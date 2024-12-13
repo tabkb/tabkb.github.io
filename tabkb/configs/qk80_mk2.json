@@ -67,30 +67,36 @@
       }
     ]
   },
-  "tapDance":  [
-    {"name": "TD (2.4G)",
-     "title": "Hold and short-press to pair, long-press to delete pairing memory.",
-     "shortName": "TD(2.4G)"
+  "tapDance": [
+    {
+      "name": "TD (2.4G)",
+      "title": "Hold and short-press to pair, long-press to delete pairing memory.",
+      "shortName": "TD(2.4G)"
     },
-    {"name": "TD (BLE1)",
-     "title": "Hold and short-press to pair, long-press to delete pairing memory.",
-     "shortName": "TD(BLE1)"
+    {
+      "name": "TD (BLE1)",
+      "title": "Hold and short-press to pair, long-press to delete pairing memory.",
+      "shortName": "TD(BLE1)"
     },
-    {"name": "TD (BLE2)",
-     "title": "Hold and short-press to pair, long-press to delete pairing memory.",
-     "shortName": "TD(BLE2)"
+    {
+      "name": "TD (BLE2)",
+      "title": "Hold and short-press to pair, long-press to delete pairing memory.",
+      "shortName": "TD(BLE2)"
     },
-    {"name": "TD (BLE3)",
-     "title": "Hold and short-press to pair, long-press to delete pairing memory.",
-     "shortName": "TD(BLE3)"
+    {
+      "name": "TD (BLE3)",
+      "title": "Hold and short-press to pair, long-press to delete pairing memory.",
+      "shortName": "TD(BLE3)"
     },
-    {"name": "TD (REST)",
-     "title": "Long-press 3 seconds to delete all profile and settings.",
-     "shortName": "TD(REST)"
+    {
+      "name": "TD (REST)",
+      "title": "Long-press 3 seconds to delete all profile and settings.",
+      "shortName": "TD(REST)"
     },
-    {"name": "TD (WIN)",
-     "title": "Hold and short-press to switch win/mac, long-press to lock/unlock windows key.",
-     "shortName": "TD(WIN)"
+    {
+      "name": "TD (WIN)",
+      "title": "Hold and short-press to switch win/mac, long-press to lock/unlock windows key.",
+      "shortName": "TD(WIN)"
     }
   ]
 }
