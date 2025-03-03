@@ -345,6 +345,12 @@
     }
   },
   {
+    "name": "Neo65 Hall",
+    "vendorId": "0xE560",
+    "productId": "0xEA65",
+    "actuation": true
+  },
+  {
     "name": "Neo65 Cu",
     "vendorId": "0xE560",
     "productId": "0xE065",
