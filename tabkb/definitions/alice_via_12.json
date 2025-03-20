@@ -205,6 +205,12 @@
                                 ["1k", 31]
                               ],
                             "content": ["id_cp_matrix_frequency", 17, 8]
+                        },
+                        {
+                            "label": "Wireless channel",
+                            "type": "range",
+                            "options": [1, 99],
+                            "content": ["id_cp_wireless_channel", 17, 20]
                         }
                     ]
                 },
