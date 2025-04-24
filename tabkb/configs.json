@@ -172,6 +172,12 @@
     ]
   },
   {
+    "name": "Chow75 HE",
+    "vendorId": "0xC480",
+    "productId": "0xC75E",
+    "actuation": true
+  },
+  {
     "name": "DK60",
     "vendorId": "0x54AB",
     "productId": "0xD060",
@@ -959,6 +965,12 @@
     "name": "OW link65ec",
     "vendorId": "0x4F57",
     "productId": "0x4C4B",
+    "actuation": true
+  },
+  {
+    "name": "Transition lite HE",
+    "vendorId": "0x534B",
+    "productId": "0x580E",
     "actuation": true
   },
   {
