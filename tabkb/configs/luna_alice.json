@@ -2,6 +2,7 @@
   "name": "Luna Alice",
   "vendorId": "0x5054",
   "productId": "0x4C41",
+  "cdcMacIssue": true,
   "matrixLighting": {
     "rows": 7,
     "cols": 12,

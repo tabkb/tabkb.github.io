@@ -385,6 +385,7 @@
     "name": "Luna Alice",
     "vendorId": "0x5054",
     "productId": "0x4C41",
+    "cdcMacIssue": true,
     "matrixLighting": {
       "rows": 7,
       "cols": 12,
@@ -574,7 +575,8 @@
     "vendorId": "0x4F57",
     "productId": "0x4110",
     "firmware": "0.0.0",
-    "cdc": true
+    "cdc": true,
+    "cdcMacIssue": true
   },
   {
     "name": "OW suit hal",
