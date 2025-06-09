@@ -3,6 +3,8 @@
   "vendorId": "0xE560",
   "productId": "0xE98B",
   "firmware": "0.0.0",
+  "cdc": true,
+  "cdcMacIssue": true,
   "matrixLighting": {
     "rows": 5,
     "cols": 5,
