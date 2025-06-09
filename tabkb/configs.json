@@ -42,6 +42,13 @@
     }
   },
   {
+    "name": "MMD AR84 Gaming Keyboard",
+    "vendorId": "0x4D44",
+    "productId": "0xA84E",
+    "actuation": true,
+    "firmware": "0.0.0"
+  },
+  {
     "name": "Bread65",
     "vendorId": "0x54AB",
     "productId": "0xBD65",
@@ -175,7 +182,8 @@
     "name": "Chow75 HE",
     "vendorId": "0xC480",
     "productId": "0xC75E",
-    "actuation": true
+    "actuation": true,
+    "firmware": "0.0.0"
   },
   {
     "name": "DK60",
@@ -319,6 +327,23 @@
     ]
   },
   {
+    "name": "MMDKM60C Gaming Keyboard",
+    "vendorId": "0x4D44",
+    "productId": "0x60CB",
+    "actuation": true,
+    "firmware": "0.0.0"
+  },
+  {
+    "name": "Luna Alice",
+    "vendorId": "0x5054",
+    "productId": "0x4C41",
+    "matrixLighting": {
+      "rows": 7,
+      "cols": 12,
+      "cdc": true
+    }
+  },
+  {
     "vendorId": "0x4A4F",
     "productId": "0x4D64",
     "firmware": "0.0.0",
@@ -413,16 +438,46 @@
     }
   },
   {
+    "name": "MG67 HE",
+    "vendorId": "0x4D47",
+    "productId": "0xA67E",
+    "actuation": true,
+    "firmware": "0.0.0"
+  },
+  {
+    "name": "MG68 HE",
+    "vendorId": "0x4D47",
+    "productId": "0xA68E",
+    "actuation": true,
+    "firmware": "0.0.0"
+  },
+  {
+    "name": "MG80 HE",
+    "vendorId": "0x4D47",
+    "productId": "0xA84E",
+    "actuation": true,
+    "firmware": "0.0.0"
+  },
+  {
     "name": "Neo65 Hall",
     "vendorId": "0xE560",
     "productId": "0xEB65",
-    "actuation": true
+    "actuation": true,
+    "firmware": "0.0.0"
   },
   {
     "name": "Neo65 Hall",
     "vendorId": "0xE560",
     "productId": "0xEA65",
-    "actuation": true
+    "actuation": true,
+    "firmware": "0.0.0"
+  },
+  {
+    "name": "Neo60 Hall",
+    "vendorId": "0xE560",
+    "productId": "0xEE60",
+    "actuation": true,
+    "firmware": "0.0.0"
   },
   {
     "name": "Neo65 Cu",
@@ -458,6 +513,13 @@
         "title": "HT_WIN"
       }
     ]
+  },
+  {
+    "name": "Neo65 Hall",
+    "vendorId": "0xE560",
+    "productId": "0xEE65",
+    "actuation": true,
+    "firmware": "0.0.0"
   },
   {
     "name": "OW ALICE",
@@ -971,7 +1033,8 @@
     "name": "Transition lite HE",
     "vendorId": "0x534B",
     "productId": "0x580E",
-    "actuation": true
+    "actuation": true,
+    "firmware": "0.0.0"
   },
   {
     "name": "Transition mp",

@@ -1,0 +1,10 @@
+{
+  "name": "Luna Alice",
+  "vendorId": "0x5054",
+  "productId": "0x4C41",
+  "matrixLighting": {
+    "rows": 7,
+    "cols": 12,
+    "cdc": true
+  }
+}
