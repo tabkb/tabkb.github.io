@@ -4,5 +4,5 @@
 	"productId": "0x4110",
     "firmware": "0.0.0",
     "cdc": true,
-    "cdcMacIssue": false
+    "cdcMacIssue": true
 }
