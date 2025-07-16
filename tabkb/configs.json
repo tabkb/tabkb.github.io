@@ -253,7 +253,6 @@
     "productId": "0xE98B",
     "firmware": "0.0.0",
     "cdc": true,
-    "cdcMacIssue": true,
     "matrixLighting": {
       "rows": 5,
       "cols": 5,
@@ -611,8 +610,7 @@
     "vendorId": "0x4F57",
     "productId": "0x4110",
     "firmware": "0.0.0",
-    "cdc": true,
-    "cdcMacIssue": true
+    "cdc": true
   },
   {
     "name": "OW suit hal",
