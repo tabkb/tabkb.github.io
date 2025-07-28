@@ -84,6 +84,17 @@
                         "label": "Color",
                         "type": "color",
                         "content": ["id_qmk_rgb_matrix_color", 3, 4]
+                      },
+                      {
+                        "label": "Effect Extend",
+                         "type": "dropdown", 
+                         "content": ["id_extend_rgb_matrix_mode", 66, 8], 
+                         "options": []
+                      },
+                      {
+                        "label": "Toggle",
+                        "type": "toggle",
+                        "content": ["id_extend_rgb_matrix_toggle", 66, 9]
                       }
                     ]
                 }
@@ -217,7 +228,23 @@
         {"name": "F-Zone",
          "title": "[TFA_TOG] Toggle Number or F zone",
          "shortName": "FZon"
-        }
+        },
+        {"name": "A0",
+        "title": "[CFG_1] Multi Config 1",
+        "shortName": "A0"
+       },
+       {"name": "A1",
+        "title": "[CFG_2] Multi Config 2",
+        "shortName": "A1"
+       },
+       {"name": "A2",
+        "title": "[CFG_3] Multi Config 3",
+        "shortName": "A2"
+       },
+       {"name": "A3",
+        "title": "[CFG_4] Multi Config 4",
+        "shortName": "A3"
+       }
     ],
 	"layouts": {
         "keymap": [

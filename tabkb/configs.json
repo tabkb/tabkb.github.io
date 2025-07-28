@@ -1,564 +1,10 @@
 [
   {
-    "name": "AKKO 5098B",
-    "vendorId": "0x3151",
-    "productId": "0x4015",
-    "firmware": "0.0.0",
-    "cdc": true,
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider"
-      ],
-      "fileTypes": [
-        {
-          "label": "动画",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 172,
-          "oheight": 320,
-          "animFramesLimit": 400
-        },
-        {
-          "label": "屏幕背景",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 172,
-          "oheight": 320
-        },
-        {
-          "label": "动画",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 172,
-          "oheight": 320,
-          "animFramesLimit": 400
-        }
-      ]
-    }
-  },
-  {
-    "name": "MMD AR84 Gaming Keyboard",
-    "vendorId": "0x4D44",
-    "productId": "0xA84E",
-    "actuation": true,
-    "firmware": "0.0.0"
-  },
-  {
-    "name": "Bread65",
-    "vendorId": "0x54AB",
-    "productId": "0xBD65",
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      }
-    ]
-  },
-  {
-    "name": "KB950 PRO",
-    "vendorId": "0x54AB",
-    "productId": "0xB950",
-    "firmware": "0.0.0",
-    "cdc": true,
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider"
-      ],
-      "fileTypes": [
-        {
-          "label": "Custom Animation",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 96,
-          "animFramesLimit": 400
-        },
-        {
-          "label": "Custom Image",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 96
-        },
-        {
-          "label": "Custom Slider",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 96,
-          "animFramesLimit": 400
-        }
-      ]
-    },
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      }
-    ]
-  },
-  {
-    "name": "KB88 TAI",
-    "vendorId": "0x54AB",
-    "productId": "0xC987",
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      }
-    ]
-  },
-  {
-    "name": "Chow75 HE",
-    "vendorId": "0xC480",
-    "productId": "0xC75E",
-    "actuation": true,
-    "firmware": "0.0.0"
-  },
-  {
-    "name": "DK60",
-    "vendorId": "0x54AB",
-    "productId": "0xD060",
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      }
-    ]
-  },
-  {
-    "name": "DK80",
-    "vendorId": "0x54AB",
-    "productId": "0xD080",
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      }
-    ]
-  },
-  {
-    "name": "EVO 104",
-    "vendorId": "0xE560",
-    "productId": "0xE104",
-    "firmware": "0.0.0",
-    "cdc": true,
-    "matrixLighting": {
-      "rows": 8,
-      "cols": 24,
-      "cdc": true
-    }
-  },
-  {
-    "name": "EVO_WORX98",
-    "vendorId": "0xE560",
-    "productId": "0xE98B",
-    "firmware": "0.0.0",
-    "cdc": true,
-    "matrixLighting": {
-      "rows": 5,
-      "cols": 5,
-      "cdc": true
-    },
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider"
-      ],
-      "fileTypes": [
-        {
-          "label": "Custom Animation",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 100,
-          "oheight": 310,
-          "animFramesLimit": 400
-        },
-        {
-          "label": "Custom Image",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 100,
-          "oheight": 310
-        },
-        {
-          "label": "Custom Slider",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 100,
-          "oheight": 310,
-          "animFramesLimit": 400
-        }
-      ]
-    }
-  },
-  {
-    "name": "Twos Hotot",
-    "vendorId": "0xAB22",
-    "productId": "0x484F",
-    "cdc": true,
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider"
-      ],
-      "swapBit": true,
-      "fileTypes": [
-        {
-          "label": "",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80,
-          "animFramesLimit": 480
-        },
-        {
-          "label": "屏幕背景",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80
-        },
-        {
-          "label": "",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80,
-          "animFramesLimit": 480
-        }
-      ]
-    }
-  },
-  {
-    "name": "JoJo R67ec",
-    "vendorId": "0x4A4F",
-    "productId": "0x5243",
-    "actuation": true
-  },
-  {
-    "name": "KF206",
-    "vendorId": "0x54AB",
-    "productId": "0xF206",
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      }
-    ]
-  },
-  {
-    "name": "MMDKM60C Gaming Keyboard",
-    "vendorId": "0x4D44",
-    "productId": "0x60CB",
-    "actuation": true,
-    "firmware": "0.0.0"
-  },
-  {
-    "name": "Luna Alice",
-    "vendorId": "0x5054",
-    "productId": "0x4C41",
-    "matrixLighting": {
-      "rows": 7,
-      "cols": 12,
-      "cdc": true
-    },
-    "cdc": true,
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider"
-      ],
-      "swapBit": true,
-      "fileTypes": [
-        {
-          "label": "Custom Animation",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 128,
-          "oheight": 128,
-          "animFramesLimit": 400
-        },
-        {
-          "label": "Custom Image",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 128,
-          "oheight": 128
-        },
-        {
-          "label": "Custom Slider",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 128,
-          "oheight": 128,
-          "animFramesLimit": 400
-        }
-      ]
-    }
-  },
-  {
-    "vendorId": "0x4A4F",
-    "productId": "0x4D64",
-    "firmware": "0.0.0",
-    "cdc": true,
-    "screen": [
-      {
-        "label": "屏幕动画 Area1",
-        "type": "video",
-        "format": "ANIM",
-        "orientations": 0,
-        "owidth": 80,
-        "oheight": 30
-      },
-      {
-        "label": "屏幕动画 Area2",
-        "type": "video",
-        "format": "ANIM",
-        "orientations": 0,
-        "owidth": 80,
-        "oheight": 112
-      },
-      {
-        "label": "屏幕背景",
-        "type": "image",
-        "format": "ABKG",
-        "orientations": 0,
-        "owidth": 80,
-        "oheight": 160
-      },
-      {
-        "label": "屏幕状态",
-        "type": "image",
-        "format": "ASTS",
-        "orientations": 0,
-        "owidth": 96,
-        "oheight": 88
-      }
-    ]
-  },
-  {
-    "name": "Magic87",
-    "vendorId": "0x54AB",
-    "productId": "0x6D87",
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      }
-    ]
-  },
-  {
-    "name": "NOAH",
-    "vendorId": "0x4D58",
-    "productId": "0x4E66",
-    "firmware": "0.0.0",
-    "cdc": true,
-    "screen": {
-      "menus": [
-        "video"
-      ],
-      "fileTypes": [
-        {
-          "label": "动画",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172,
-          "animFramesLimit": 600
-        }
-      ]
-    }
-  },
-  {
-    "name": "MG67 HE",
-    "vendorId": "0x4D47",
-    "productId": "0xA67E",
-    "actuation": true,
-    "firmware": "0.0.0"
-  },
-  {
-    "name": "MG68 HE",
-    "vendorId": "0x4D47",
-    "productId": "0xA68E",
-    "actuation": true,
-    "firmware": "0.0.0"
-  },
-  {
-    "name": "MG80 HE",
-    "vendorId": "0x4D47",
-    "productId": "0xA84E",
-    "actuation": true,
-    "firmware": "0.0.0"
-  },
-  {
     "name": "Neo65 Hall",
     "vendorId": "0xE560",
     "productId": "0xEB65",
     "actuation": true,
+    "actVenturePrecision": true,
     "firmware": "0.0.0"
   },
   {
@@ -576,185 +22,254 @@
     "firmware": "0.0.0"
   },
   {
-    "name": "Neo65 Cu",
-    "vendorId": "0xE560",
-    "productId": "0xE065",
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      },
-      {
-        "name": "HT_WIN",
-        "title": "HT_WIN"
-      }
-    ]
-  },
-  {
     "name": "Neo65 Hall",
     "vendorId": "0xE560",
     "productId": "0xEE65",
     "actuation": true,
-    "firmware": "0.0.0"
-  },
-  {
-    "name": "OW ALICE",
-    "vendorId": "0x4F57",
-    "productId": "0x4110",
     "firmware": "0.0.0",
-    "cdc": true,
-    "cdcMacIssue": true
+    "switch": [
+      {
+        "vendor": "OW",
+        "items": [
+          {
+            "name": "OW_TI",
+            "default": true
+          },
+          {
+            "name": "OW_NOVA",
+            "axis": 33008,
+            "color": "#4E94CE",
+            "rules": {
+              "actu": [
+                0,
+                5000,
+                10000,
+                15000,
+                20000,
+                25000,
+                30000,
+                33000
+              ],
+              "pcnt": [
+                0,
+                388,
+                1037,
+                1963,
+                3254,
+                5134,
+                8007,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "vendor": "GATERON",
+        "items": [
+          {
+            "name": "GATERON_CIYU",
+            "axis": 33001,
+            "color": "#9CFFBD",
+            "rules": {
+              "actu": [
+                0,
+                5000,
+                10000,
+                15000,
+                20000,
+                25000,
+                30000,
+                33000
+              ],
+              "pcnt": [
+                0,
+                370,
+                1025,
+                1933,
+                3176,
+                5008,
+                7706,
+                10000
+              ]
+            }
+          },
+          {
+            "name": "GATERON_CIYU_PRO",
+            "axis": 33002,
+            "color": "#4DD444",
+            "rules": {
+              "actu": [
+                0,
+                5000,
+                10000,
+                15000,
+                20000,
+                25000,
+                30000,
+                33000
+              ],
+              "pcnt": [
+                0,
+                379,
+                1037,
+                1931,
+                3196,
+                4992,
+                7664,
+                10000
+              ]
+            }
+          },
+          {
+            "name": "GATERON_CIYU_MAX",
+            "axis": 33003,
+            "color": "#77FF00",
+            "rules": {
+              "actu": [
+                0,
+                5000,
+                10000,
+                15000,
+                20000,
+                25000,
+                30000,
+                33000
+              ],
+              "pcnt": [
+                0,
+                383,
+                1027,
+                1932,
+                3194,
+                4987,
+                7659,
+                10000
+              ]
+            }
+          },
+          {
+            "name": "GATERON_CIYU_GAMING",
+            "axis": 33004,
+            "color": "#53A24F",
+            "rules": {
+              "actu": [
+                0,
+                5000,
+                10000,
+                15000,
+                20000,
+                25000,
+                30000,
+                33000
+              ],
+              "pcnt": [
+                0,
+                382,
+                1047,
+                1962,
+                3209,
+                5004,
+                7714,
+                10000
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "vendor": "TTC",
+        "items": [
+          {
+            "name": "TTC_MAGNETO",
+            "axis": 33005,
+            "color": "#FF3531",
+            "rules": {
+              "actu": [
+                0,
+                5000,
+                10000,
+                15000,
+                20000,
+                25000,
+                30000,
+                33000
+              ],
+              "pcnt": [
+                0,
+                392,
+                1057,
+                1944,
+                3214,
+                5021,
+                7707,
+                10000
+              ]
+            }
+          },
+          {
+            "name": "TTC_MAGNETO_PRO",
+            "axis": 33006,
+            "color": "#FFB1B0",
+            "rules": {
+              "actu": [
+                0,
+                5000,
+                10000,
+                15000,
+                20000,
+                25000,
+                30000,
+                33000
+              ],
+              "pcnt": [
+                0,
+                390,
+                1053,
+                1969,
+                3234,
+                5034,
+                7733,
+                10000
+              ]
+            }
+          },
+          {
+            "name": "TTC_MAGNETO_POM",
+            "axis": 33007,
+            "color": "#C59CFF",
+            "rules": {
+              "actu": [
+                0,
+                5000,
+                10000,
+                15000,
+                20000,
+                25000,
+                30000,
+                33000
+              ],
+              "pcnt": [
+                0,
+                397,
+                1046,
+                1946,
+                3195,
+                4996,
+                7705,
+                10000
+              ]
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "OW suit hal",
     "vendorId": "0x4F57",
     "productId": "0x5380",
     "actuation": true
-  },
-  {
-    "name": "QK101",
-    "vendorId": "0x514B",
-    "productId": "0x4D04",
-    "firmware": "0.0.0",
-    "cdc": true,
-    "matrixLighting": {
-      "rows": 7,
-      "cols": 7,
-      "cdc": true,
-      "shareApi": "https://novel.qwertykeys.com/api/leds"
-    },
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider",
-        "theme"
-      ],
-      "maxOutputSize": 32768000,
-      "maxFgFileCount": 6,
-      "fileTypes": [
-        {
-          "label": "Theme",
-          "type": "video",
-          "format": "ANIT",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172,
-          "animFramesLimit": 300
-        },
-        {
-          "label": "Custom Animation",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172,
-          "animFramesLimit": 500
-        },
-        {
-          "label": "Theme",
-          "type": "image",
-          "format": "ABKT",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172
-        },
-        {
-          "label": "Custom Image",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172
-        },
-        {
-          "label": "Theme",
-          "type": "slider",
-          "format": "ANPT",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172,
-          "animFramesLimit": 300
-        },
-        {
-          "label": "Custom Slider",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172,
-          "animFramesLimit": 500
-        },
-        {
-          "label": "Background",
-          "type": "theme",
-          "format": "IAMT",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172,
-          "animFramesLimit": -1
-        },
-        {
-          "label": "Foreground",
-          "type": "theme",
-          "format": "IAFT",
-          "orientations": 0,
-          "animFramesLimit": -1
-        }
-      ]
-    },
-    "tapDance": [
-      {
-        "name": "TD (2.4G)",
-        "title": "Hold and short-press to pair, long-press to delete pairing memory. / 短按配对连接，长按删除配对信息",
-        "shortName": "TD(2.4G)"
-      },
-      {
-        "name": "TD (BLE1)",
-        "title": "Hold and short-press to pair, long-press to delete pairing memory. / 短按配对连接，长按删除配对信息",
-        "shortName": "TD(BLE1)"
-      },
-      {
-        "name": "TD (BLE2)",
-        "title": "Hold and short-press to pair, long-press to delete pairing memory. / 短按配对连接，长按删除配对信息",
-        "shortName": "TD(BLE2)"
-      },
-      {
-        "name": "TD (BLE3)",
-        "title": "Hold and short-press to pair, long-press to delete pairing memory. / 短按配对连接，长按删除配对信息",
-        "shortName": "TD(BLE3)"
-      },
-      {
-        "name": "TD (REST)",
-        "title": "Long-press 3 seconds to delete all profile and settings. / 长按3秒删除键盘所有配置",
-        "shortName": "TD(REST)"
-      },
-      {
-        "name": "TD (WIN)",
-        "title": "Hold and short-press to switch win/mac, long-press to lock/unlock windows key. / 短按切换win/mac模式，长按锁/解锁win键",
-        "shortName": "TD(WIN)"
-      }
-    ]
   },
   {
     "name": "QK80 MK2",
@@ -859,350 +374,6 @@
         "name": "TD (WIN)",
         "title": "Hold and short-press to switch win/mac, long-press to lock/unlock windows key.",
         "shortName": "TD(WIN)"
-      }
-    ]
-  },
-  {
-    "name": "qk80v2",
-    "vendorId": "0x4F57",
-    "productId": "0x5002",
-    "firmware": "0.0.0",
-    "cdc": true,
-    "matrixLighting": {
-      "rows": 7,
-      "cols": 7
-    },
-    "screen": {
-      "menus": [
-        "video"
-      ],
-      "fileTypes": [
-        {
-          "label": "动画",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172,
-          "animFramesLimit": 600
-        },
-        {
-          "label": "主题",
-          "type": "video",
-          "format": "ANIT",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172,
-          "animFramesLimit": 200
-        }
-      ]
-    }
-  },
-  {
-    "name": "tabkb",
-    "vendorId": "0x5448",
-    "productId": "0x4842",
-    "cdc": false,
-    "firmware": "0.0.0",
-    "firmwareFile": "",
-    "matrixLighting": {
-      "rows": 7,
-      "cols": 7,
-      "importEnable": true,
-      "maxFrame": 300
-    },
-    "actuation": true,
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider",
-        "theme"
-      ],
-      "swapBit": true,
-      "maxOutputSize": 32768000,
-      "maxFgFileCount": 6,
-      "fileTypes": [
-        {
-          "label": "屏幕动画 Area1",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 80,
-          "oheight": 30,
-          "animFramesLimit": -1
-        },
-        {
-          "label": "屏幕动画 Area2",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 80,
-          "oheight": 112,
-          "animFramesLimit": -1
-        },
-        {
-          "label": "屏幕背景",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 80,
-          "oheight": 160
-        },
-        {
-          "label": "屏幕状态",
-          "type": "image",
-          "format": "ASTS",
-          "orientations": 0,
-          "owidth": 96,
-          "oheight": 88
-        },
-        {
-          "label": "Custom Slider",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 80,
-          "oheight": 30,
-          "animFramesLimit": -1
-        },
-        {
-          "label": "Theme",
-          "type": "slider",
-          "format": "ANPT",
-          "orientations": 0,
-          "owidth": 80,
-          "oheight": 112,
-          "animFramesLimit": -1
-        },
-        {
-          "label": "Background",
-          "type": "theme",
-          "format": "IAMT",
-          "orientations": 0,
-          "owidth": 320,
-          "oheight": 172,
-          "animFramesLimit": -1
-        },
-        {
-          "label": "Foreground",
-          "type": "theme",
-          "format": "IAFT",
-          "orientations": 0,
-          "animFramesLimit": -1
-        }
-      ]
-    }
-  },
-  {
-    "name": "Targa 98",
-    "vendorId": "0x5546",
-    "productId": "0x5463",
-    "cdc": true,
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider"
-      ],
-      "swapBit": true,
-      "fileTypes": [
-        {
-          "label": "",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80,
-          "animFramesLimit": 480
-        },
-        {
-          "label": "屏幕背景",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80
-        },
-        {
-          "label": "",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80,
-          "animFramesLimit": 480
-        }
-      ]
-    }
-  },
-  {
-    "name": "Targa 98U RGB",
-    "vendorId": "0x5546",
-    "productId": "0x5464",
-    "cdc": true,
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider"
-      ],
-      "swapBit": true,
-      "fileTypes": [
-        {
-          "label": "",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80,
-          "animFramesLimit": 480
-        },
-        {
-          "label": "屏幕背景",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80
-        },
-        {
-          "label": "",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80,
-          "animFramesLimit": 480
-        }
-      ]
-    }
-  },
-  {
-    "name": "Targa 98U",
-    "vendorId": "0x5546",
-    "productId": "0x5462",
-    "cdc": true,
-    "screen": {
-      "menus": [
-        "video",
-        "image",
-        "slider"
-      ],
-      "swapBit": true,
-      "fileTypes": [
-        {
-          "label": "",
-          "type": "video",
-          "format": "ANIM",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80,
-          "animFramesLimit": 480
-        },
-        {
-          "label": "屏幕背景",
-          "type": "image",
-          "format": "ABKG",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80
-        },
-        {
-          "label": "",
-          "type": "slider",
-          "format": "ANPS",
-          "orientations": 0,
-          "owidth": 160,
-          "oheight": 80,
-          "animFramesLimit": 480
-        }
-      ]
-    }
-  },
-  {
-    "name": "OW link65ec",
-    "vendorId": "0x4F57",
-    "productId": "0x4C4B",
-    "actuation": true
-  },
-  {
-    "name": "Transition lite HE",
-    "vendorId": "0x534B",
-    "productId": "0x580E",
-    "actuation": true,
-    "firmware": "0.0.0"
-  },
-  {
-    "name": "Transition mp",
-    "vendorId": "0x54AB",
-    "productId": "0x544D",
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      }
-    ]
-  },
-  {
-    "name": "Virtual 80",
-    "vendorId": "0x54AB",
-    "productId": "0x7680",
-    "tapDance": [
-      {
-        "name": "HT_G24",
-        "title": "HT_G24"
-      },
-      {
-        "name": "HT_BLE1",
-        "title": "HT_BLE1"
-      },
-      {
-        "name": "HT_BLE2",
-        "title": "HT_BLE2"
-      },
-      {
-        "name": "HT_BLE3",
-        "title": "HT_BLE3"
-      },
-      {
-        "name": "HT_REST",
-        "title": "HT_REST"
-      },
-      {
-        "name": "HT_POWR",
-        "title": "HT_POWR"
-      }
-    ]
-  },
-  {
-    "name": "Wooting87 8K",
-    "vendorId": "0x54AB",
-    "productId": "0x7787",
-    "tapDance": [
-      {
-        "name": "TD REST",
-        "title": "TD(REST)"
       }
     ]
   }
