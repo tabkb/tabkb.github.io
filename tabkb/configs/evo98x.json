@@ -2,7 +2,14 @@
   "name": "EVO_WORX98",
   "vendorId": "0xE560",
   "productId": "0xE98B",
-  "firmware": "0.0.0",
+  "firmware": {
+    "version": "1.0.1",
+    "file": [
+      "/firmwares/evo98x/tab_ow_evo98x_plc_v1.0.0_20250729_DEBUG.uf2",
+      "/firmwares/evo98x/tab_ow_evo98x_master_v1.0.0_20250729_DEBUG.uf2"
+    ],
+    "masterBoot": ["0xe560", "0xe98d"]
+  },
   "cdc": true,
   "matrixLighting": {
     "rows": 5,
