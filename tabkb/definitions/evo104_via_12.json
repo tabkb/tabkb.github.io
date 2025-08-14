@@ -1,5 +1,5 @@
 {
-	"name": "EVO 104",
+	"name": "TICKTYPE DP-104",
 	"vendorId": "0xE560",
 	"productId": "0xE104",
 	"matrix": {
@@ -177,9 +177,12 @@
                         "options": [
                             "All Off",
                             "Typewriter",
-                            "Terminal",
-                            "Raindrop",
-                            "Custom"
+                            "Custom",
+                            "Info",
+                            "Spark",
+                            "Audiowave",
+                            "bulletscreen"
+
                         ]
                         },
                         {
@@ -448,9 +451,13 @@
          "title": "[INF_OUT] Print the current KBD information",
          "shortName": "Info"
         },
-        {"name": "Pix Mod",
-         "title": "[TPI_MOD] Pixies screen mode switching",
-         "shortName": "Pix"
+        {"name": "Led mode",
+         "title": "[TJM_MOD] MATRIX LED Mode",
+         "shortName": "LedMod"
+        },
+        {"name": "Led rmode",
+         "title": "[TJM_RMOD] MATRIX LED RMode",
+         "shortName": "LedRMod"
         },
         {"name": "Light mode",
          "title": "[TLI_MOD] Light mode selection",

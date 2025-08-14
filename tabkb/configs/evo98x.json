@@ -3,11 +3,8 @@
   "vendorId": "0xE560",
   "productId": "0xE98B",
   "firmware": {
-    "version": "1.0.1",
-    "file": [
-      "/firmwares/evo98x/tab_ow_evo98x_plc_v1.0.0_20250729_DEBUG.uf2",
-      "/firmwares/evo98x/tab_ow_evo98x_master_v1.0.0_20250729_DEBUG.uf2"
-    ],
+    "version": "1.0.0",
+    "file": [],
     "masterBoot": ["0xe560", "0xe98d"]
   },
   "cdc": true,
