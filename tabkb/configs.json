@@ -1160,27 +1160,27 @@
         {
           "label": "Custom Animation",
           "type": "video",
-          "format": "ANIM",
+          "format": "ANIT",
           "orientations": 0,
-          "owidth": 172,
-          "oheight": 320,
+          "owidth": 320,
+          "oheight": 172,
           "animFramesLimit": 400
         },
         {
           "label": "Custom Image",
           "type": "image",
-          "format": "ABKG",
+          "format": "ABKT",
           "orientations": 0,
-          "owidth": 172,
-          "oheight": 320
+          "owidth": 320,
+          "oheight": 172
         },
         {
           "label": "Custom Slider",
           "type": "slider",
-          "format": "ANPS",
+          "format": "ANPT",
           "orientations": 0,
-          "owidth": 172,
-          "oheight": 320,
+          "owidth": 320,
+          "oheight": 172,
           "animFramesLimit": 400
         }
       ]
