@@ -13,5 +13,10 @@
     "path": "106_receiver_boot",
     "vendorId": "0x534b",
     "productId": "0xcc85"
+  },
+  {
+    "path": "qk65_reciever_boot",
+    "vendorId": "0x514b",
+    "productId": "0x4d08"
   }
 ]

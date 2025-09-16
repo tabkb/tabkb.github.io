@@ -781,7 +781,10 @@
     "firmware": {
       "version": "1.0.0",
       "file": [],
-      "masterBoot": []
+      "masterBoot": [
+        "0x514b",
+        "0x4d06"
+      ]
     },
     "cdc": true,
     "matrixLighting": {
