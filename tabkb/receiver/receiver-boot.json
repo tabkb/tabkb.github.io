@@ -18,5 +18,10 @@
     "path": "qk65_reciever_boot",
     "vendorId": "0x514b",
     "productId": "0x4d08"
+  },
+  {
+    "path": "evo104_reciever_boot",
+    "vendorId": "0xE560",
+    "productId": "0xCC85"
   }
 ]
