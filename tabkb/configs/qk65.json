@@ -8,13 +8,8 @@
     "masterBoot": ["0x514b", "0x4d06"]
   },
   "cdc": true,
-  "matrixLighting": {
-    "rows": 5,
-    "cols": 5,
-    "cdc": true
-  },
   "screen": {
-    "menus": ["video", "image", "slider"],
+    "menus": ["video", "image", "slider", "theme-color"],
     "fileTypes": [
       {
         "label": "Custom Animation",

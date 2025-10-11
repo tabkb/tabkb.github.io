@@ -14,7 +14,8 @@
     "cdc": true,
     "texts": {
       "count": 5,
-      "length": 30
+      "length": 30,
+      "default": "TICKTYPE"
     }
   }
 }

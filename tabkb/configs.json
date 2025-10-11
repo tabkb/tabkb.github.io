@@ -273,7 +273,8 @@
       "cdc": true,
       "texts": {
         "count": 5,
-        "length": 30
+        "length": 30,
+        "default": "TICKTYPE"
       }
     }
   },
@@ -794,16 +795,12 @@
       ]
     },
     "cdc": true,
-    "matrixLighting": {
-      "rows": 5,
-      "cols": 5,
-      "cdc": true
-    },
     "screen": {
       "menus": [
         "video",
         "image",
-        "slider"
+        "slider",
+        "theme-color"
       ],
       "fileTypes": [
         {
