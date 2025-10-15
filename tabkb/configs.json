@@ -795,6 +795,11 @@
       ]
     },
     "cdc": true,
+    "matrixLighting": {
+      "rows": 5,
+      "cols": 5,
+      "cdc": true
+    },
     "screen": {
       "menus": [
         "video",
